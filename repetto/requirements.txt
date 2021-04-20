@@ -20,7 +20,7 @@ numpy==1.9.2
 ply==3.4
 pretty-midi==0.0.1
 ptyprocess==0.4
-py==1.4.26
+py==1.10.0
 Pygments==2.0.2
 pyparsing==2.0.3
 pytest==2.7.0
